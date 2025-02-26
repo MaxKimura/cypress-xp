@@ -1,0 +1,46 @@
+{
+    "create": {
+      "name": "Lar da Criança Feliz",
+      "description": "Um lugar acolhedor para crianças carentes, oferecendo educação, alimentação e apoio emocional.",
+      "opening_hours": "Segunda a Sexta, das 8h às 18h",
+      "open_on_weekends": false,
+      "position": {
+        "latitude": -23.594073,
+        "longitude": -46.682376
+      },
+      "image": "kids-playground-1.png"
+    },
+    "duplicated": {
+      "name": "Casa Esperança",
+      "description": "Oferecemos um ambiente seguro e amoroso para crianças em situação de vulnerabilidade social.",
+      "opening_hours": "Terça a Domingo, das 9h às 17h",
+      "open_on_weekends": true,
+      "position": {
+        "latitude": -23.596450940802633,
+        "longitude": -46.68912934156518
+      },
+      "image": "kids-playground-5.png"
+    },
+    "map": {
+      "name": "Recanto do Amor",
+      "description": "Nosso objetivo é proporcionar um futuro melhor para crianças abandonadas ou órfãs.",
+      "opening_hours": "Todos os dias, das 7h às 19h",
+      "open_on_weekends": true,
+      "position": {
+        "latitude": -23.597249796619813,
+        "longitude": -46.68735602698581
+      },
+      "image": "kids-playground-7.png"
+    },
+    "required": {
+      "name": "Recanto do Amor",
+      "description": "Nosso objetivo é proporcionar um futuro melhor para crianças abandonadas ou órfãs.",
+      "opening_hours": "Todos os dias, das 7h às 19h",
+      "open_on_weekends": true,
+      "position": {
+        "latitude": -23.597249796619813,
+        "longitude": -46.68735602698581
+      },
+      "image": "kids-playground-7.png"
+    }
+}
